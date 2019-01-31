@@ -198,7 +198,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Ada Developers Academy](http://adadevelopersacademy.org/)
 
-    A year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (in an internship).
+    The Ada Developers Academy offers year-long tuition-free intensive program for women transitioning into software development. One of the most comprehensive developer training programs available: seven months of full-time classroom instruction plus five months of on-the-ground training (in an internship).
 
   - [App Camp 4 Girls](http://appcamp4girls.com/)
 
@@ -242,7 +242,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Girls Who Code](http://girlswhocode.com/)
 
-    We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
+    Girls Who Code a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
 
   - [Hackbright Academy](https://hackbrightacademy.com/)
 
@@ -250,7 +250,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Ladies Learning Code](http://ladieslearningcode.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Flag_of_Canada.svg" alt="Canada" width="30">
 
-    We are a not-for-profit organization with the mission to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way.
+    As a not-for-profit organization, Ladies Learning Code's mission is to be the leading resource for women and youth to become passionate builders - not just consumers - of technology by learning technical skills in a hands-on, social, and collaborative way.
 
   - [Minas Program](http://minasprogramam.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
 
@@ -258,7 +258,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Tech Girlz](http://www.techgirlz.org/)
 
-    We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
+    Tech Girlz is a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
 
 ### Linux/OpenSource
 ([Go to top](#awesome4girls---))
